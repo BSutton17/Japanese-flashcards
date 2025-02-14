@@ -6,13 +6,14 @@ body {
     text-align: center;
     color: white;
     background-color: rgb(42, 47, 79);
+    overflow: hidden;
   }
   
   .main-word {
     display: flex;
     justify-content: center;
     align-items: center;
-    font-size: 15vw;
+    font-size: 13vw;
     max-width: 100%;
     margin-bottom: 10vh;
   }
