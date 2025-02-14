@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import kanji from './Kanji.json';
+import kanji from './kanji.json';
 import "../App.css";
 import HealthBar from "./Healthbar";
 import { useKanjiContext } from "./Context";
