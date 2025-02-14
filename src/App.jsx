@@ -11,6 +11,9 @@ function App() {
   const { currentHealth, setCurrentHealth } = useKanjiContext(); 
   const maxHealth = (kanji.length * 3) - 3; 
   const oneThird = maxHealth / 3; 
+  if(currentHealth > maxHealth){
+    currentHealth = 0;
+  }
 
   return (
     <>

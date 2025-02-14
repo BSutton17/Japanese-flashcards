@@ -131,9 +131,120 @@
         "Meaning": "Sometimes"
     },
     {
-        "Kanji": "",
-        "Reading": "",
-        "Meaning": ""
+        "Kanji": "北",
+        "Reading": "きた",
+        "Meaning": "North"
+    },
+    {
+        "Kanji": "三",
+        "Reading": "さん",
+        "Meaning": "Three"
+    },
+
+    {
+        "Kanji": "五",
+        "Reading": "ご",
+        "Meaning": "Five"
+    },
+
+    {
+        "Kanji": "六",
+        "Reading": "ろく",
+        "Meaning": "Six"
+    },
+    {
+        "Kanji": "四",
+        "Reading": "よん",
+        "Meaning": "Four"
+    },
+    {
+        "Kanji": "七",
+        "Reading": "なな",
+        "Meaning": "Seven"
+    },
+
+    {
+        "Kanji": "八 ",
+        "Reading": "はち",
+        "Meaning": "Eight"
+    },
+
+    {
+        "Kanji": "九",
+        "Reading": "きゅう",
+        "Meaning": "Nine"
+    },
+    {
+        "Kanji": "十",
+        "Reading": "じゅう",
+        "Meaning": "Ten"
+    },
+    {
+        "Kanji": "川",
+        "Reading": "かわ",
+        "Meaning": "River"
+    },
+
+    {
+        "Kanji": "体",
+        "Reading": "からだ ",
+        "Meaning": "Body"
+    },
+
+    {
+        "Kanji": "傘",
+        "Reading": "かさ",
+        "Meaning": "Umbrella"
+    },
+    {
+        "Kanji": "朝",
+        "Reading": "あさ",
+        "Meaning": "Morning"
+    },
+    {
+        "Kanji": "夜",
+        "Reading": "よる",
+        "Meaning": "Night"
+    },
+    {
+        "Kanji": "鍵",
+        "Reading": "かぎ",
+        "Meaning": "Key"
+    },
+    {
+        "Kanji": "顔",
+        "Reading": "かお",
+        "Meaning": "Face"
+    },
+    {
+        "Kanji": "頭 ",
+        "Reading": "あたま",
+        "Meaning": "Head"
+    },
+    {
+        "Kanji": "女",
+        "Reading": "おんな ",
+        "Meaning": "Woman"
+    },
+    {
+        "Kanji": " 駅",
+        "Reading": "えき",
+        "Meaning": "Station"
+    },
+    {
+        "Kanji": " 雨",
+        "Reading": "あめ",
+        "Meaning": "Rain"
+    },
+    {
+        "Kanji": "名前",
+        "Reading": "なまえ",
+        "Meaning": "Name"
+    },
+    {
+        "Kanji": "歌",
+        "Reading": "うた",
+        "Meaning": "uta"
     }
 
 ]

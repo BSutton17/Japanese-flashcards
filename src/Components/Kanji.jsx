@@ -18,7 +18,7 @@ function Kanji() {
     let words = availableWords;
 
     if (words.length === 0) {
-      words = [...kanji]; // Reset availableWords if empty
+      words = [...kanji]; 
       setAvailableWords(words);
     }
 
