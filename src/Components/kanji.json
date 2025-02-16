@@ -1,24 +1,5 @@
 [
-    {
-        "Kanji": "人",
-        "Reading": "ひと",
-        "Meaning": "Person"
-    },
-    {
-        "Kanji": "一",
-        "Reading": "いち",
-        "Meaning": "One"
-    },
-    {
-        "Kanji": "日",
-        "Reading": "にち",
-        "Meaning": "Days of the week"
-    },
-    {
-        "Kanji": "大",
-        "Reading": "だい",
-        "Meaning": "Big"
-    },
+    
     {
         "Kanji": "年",
         "Reading": "ねん",
@@ -28,11 +9,6 @@
         "Kanji": "出",
         "Reading": "しゅつ ",
         "Meaning": "Going out"
-    },
-    {
-        "Kanji": "本",
-        "Reading": "ほん",
-        "Meaning": "Book"
     },
     {
         "Kanji": "中",
@@ -57,7 +33,7 @@
     {
         "Kanji": "言う",
         "Reading": "いう",
-        "Meaning": "to say"
+        "Meaning": "to say (Yuu)"
     },
     {
         "Kanji": "上に",
@@ -95,11 +71,6 @@
         "Meaning": "old"
     },
     {
-        "Kanji": "二",
-        "Reading": "に",
-        "Meaning": "Two"
-    },
-    {
         "Kanji": "間",
         "Reading": "かん",
         "Meaning": "Interval, between, space"
@@ -115,11 +86,6 @@
         "Meaning": "to think"
     },
     {
-        "Kanji": "時",
-        "Reading": "とき",
-        "Meaning": "time, occasion"
-    },
-    {
         "Kanji": "時間",
         "Reading": "じかん",
         "Meaning": "Time, hours"
@@ -131,55 +97,6 @@
         "Meaning": "Sometimes"
     },
     {
-        "Kanji": "北",
-        "Reading": "きた",
-        "Meaning": "North"
-    },
-    {
-        "Kanji": "三",
-        "Reading": "さん",
-        "Meaning": "Three"
-    },
-
-    {
-        "Kanji": "五",
-        "Reading": "ご",
-        "Meaning": "Five"
-    },
-
-    {
-        "Kanji": "六",
-        "Reading": "ろく",
-        "Meaning": "Six"
-    },
-    {
-        "Kanji": "四",
-        "Reading": "よん",
-        "Meaning": "Four"
-    },
-    {
-        "Kanji": "七",
-        "Reading": "なな",
-        "Meaning": "Seven"
-    },
-
-    {
-        "Kanji": "八 ",
-        "Reading": "はち",
-        "Meaning": "Eight"
-    },
-
-    {
-        "Kanji": "九",
-        "Reading": "きゅう",
-        "Meaning": "Nine"
-    },
-    {
-        "Kanji": "十",
-        "Reading": "じゅう",
-        "Meaning": "Ten"
-    },
-    {
         "Kanji": "川",
         "Reading": "かわ",
         "Meaning": "River"
@@ -189,12 +106,6 @@
         "Kanji": "体",
         "Reading": "からだ ",
         "Meaning": "Body"
-    },
-
-    {
-        "Kanji": "傘",
-        "Reading": "かさ",
-        "Meaning": "Umbrella"
     },
     {
         "Kanji": "朝",
@@ -227,11 +138,6 @@
         "Meaning": "Woman"
     },
     {
-        "Kanji": " 駅",
-        "Reading": "えき",
-        "Meaning": "Station"
-    },
-    {
         "Kanji": " 雨",
         "Reading": "あめ",
         "Meaning": "Rain"
@@ -242,9 +148,60 @@
         "Meaning": "Name"
     },
     {
-        "Kanji": "歌",
-        "Reading": "うた",
-        "Meaning": "uta"
+        "Kanji": "日本へようこそ",
+        "Reading": "ninon e yookoso",
+        "Meaning": "Welcome to Japan"
+    },
+    {
+        "Kanji": "日本へようこそ",
+        "Reading": "ninon e yookoso",
+        "Meaning": "Welcome to Japan"
+    },
+    {
+        "Kanji": "乾杯",
+        "Reading": "かんぱい",
+        "Meaning": "Cheers"
+    },
+    {
+        "Kanji": "それは何ですか",
+        "Reading": "それはなんですか",
+        "Meaning": "What is that?"
+    },
+    {
+        "Kanji": "とても",
+        "Reading": "とても",
+        "Meaning": "Very"
+    },
+    {
+        "Kanji": "美味しい",
+        "Reading": "おいしい",
+        "Meaning": "Delicious"
+    },
+    {
+        "Kanji": "どうですか",
+        "Reading": "どうですか",
+        "Meaning": "How is it"
+    },
+    {
+        "Kanji": "全部",
+        "Reading": "ぜんぶ",
+        "Meaning": "All or everything"
+    },
+    {
+        "Kanji": "が一番(adj.)です",
+        "Reading": "がいちばんです",
+        "Meaning": "The most ___"
+    },
+    {
+        "Kanji": "好き",
+        "Reading": "すき",
+        "Meaning": "Like"
+    },
+    {
+        "Kanji": "最高",
+        "Reading": "さいこう",
+        "Meaning": "Best"
     }
+
 
 ]

@@ -12,7 +12,7 @@ function App() {
   const maxHealth = (kanji.length * 3) - 3; 
   const oneThird = maxHealth / 3; 
   if(currentHealth > maxHealth){
-    currentHealth = 0;
+    setCurrentHealth(0);
   }
 
   return (
